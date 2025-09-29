@@ -25,7 +25,7 @@ This project predicts the presence of heart disease using a **Decision Tree Clas
 - number of major vessels (0-3) colored by flourosopy
 - thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 - The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
-- **it is real data just without the names and social security numbers of the real patients**
+- **this is real data just without the names and social security numbers of the real patients**
 
 
 ## Requirements
